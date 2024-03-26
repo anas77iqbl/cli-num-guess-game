@@ -1,6 +1,6 @@
 {
-  "name": "ngg13-num-guess-game",
-  "version": "1.0.1",
+  "name": "cli-num-guess-game-num-guess-game",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "type": "module",
